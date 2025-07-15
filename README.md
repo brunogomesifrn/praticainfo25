@@ -10,4 +10,8 @@ yas
 # deus humilde
 # Capivarinhas
 # Clube Laguna SAF
+<<<<<<< HEAD
 # hahahhha
+=======
+# padrasto de Daniel
+>>>>>>> f1fe9a698ae7592cbecb5d181041a9dc8ca788f5
