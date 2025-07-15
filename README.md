@@ -1,5 +1,5 @@
 # praticainfo25
-# N3M3SIS esteve aqui 
+# careca N3M3SIS esteve aqui 
 oia
 # Passando para avisar que passei hoje por aqui
 yas
@@ -7,3 +7,4 @@ yas
 # Malu 
 # Larry is GOD
 # barbosa
+# deus humilde
