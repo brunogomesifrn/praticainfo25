@@ -1,5 +1,5 @@
 # praticainfo25
-# dherik was here
+# dherik was here twice
 # careca N3M3SIS esteve aqui 
 oia
 # Passando para avisar que passei hoje por aqui
